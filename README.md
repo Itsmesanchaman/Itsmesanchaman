@@ -115,8 +115,7 @@
 
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7uhjo0r437wjd2oaly9zlmmwh)
-<br/>  
+
 <br>
 
 <div align="center">
