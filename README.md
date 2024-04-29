@@ -106,33 +106,6 @@
 ###
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7uhjo0r437wjd2oaly9zlmmwh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br>
-
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Itsmesanchaman&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Itsmesanchaman" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 
 
