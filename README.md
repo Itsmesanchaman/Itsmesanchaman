@@ -1,7 +1,5 @@
 
-<div align="center">
-<img src="https://i.imgflip.com/65efzo.gif" align="center" style="width: 20%" />
-</div>  
+
   
 
 ## <div align="center">Hi 👋, I'm Sanchaman Limbu</div>  
