@@ -2,10 +2,10 @@
 
   
 
-## <div align="center">Hi 👋, I'm Sanchaman Limbu</div>  
+## <div align="center">Sanchaman_Limbu</div>  
   
 
-### <div align="center">A passionate Flutter Developer <br> and a Student.</div>  
+### <div align="center">A passionate Flutter Developer </div>  
   
 
 <br/>  
@@ -13,7 +13,6 @@
 - 📫 How to reach me sanchamanmabo1@gmail.com  
   
 
-- ⚡ Fun fact: I use tabs over spaces
 
 <br>
 
